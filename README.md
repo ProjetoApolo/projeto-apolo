@@ -30,6 +30,8 @@ O <strong>Apolo</strong> é um projeto desenvolvido no âmbito do Colégio Técn
     <img align="center" alt="Jinja" src="https://img.shields.io/badge/Jinja-7E0C1B.svg?style=for-the-badge&logo=Jinja&logoColor=white"/>
     <!-- Bootstrap -->
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+    <!-- React Native -->
+    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <!-- HTML -->
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <!-- CSS -->
